@@ -1,0 +1,4 @@
+#include "resource.h"
+
+1   24    "XPTheme.xml"
+APPICON icon  icon/list16.ico
